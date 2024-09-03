@@ -1,11 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  </head>
-  <body>
-  <style> 
-  body {background-color: powderblue;}
-  h1 {color:black;}
-  </body>
-</html>
+#Nyheter{
+  color: blue;
+}
 
+#Produkter{
+  color: blueviolet;
+}
+
+#Handlevogn{
+  color: brown;
+}
+
+nav ul{
+  list-style: none;
+  display:flex;
+  gap:1rem;
+  flex-wrap: wrap;
+  padding: 0%;
+  margin: 0;
+}
+
+#h2-header{
+  color: aquamarine;
+}
+
+#red-txt{
+  color: red;
+}
